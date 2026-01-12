@@ -16,4 +16,17 @@ DemoProjects/                    # 主 repo
 
 
 ```
+目前進度
 
+全端/
+├── dotnet-demo
+└── springboot-demo
+
+
+後端/
+├── dotnetapi-demo
+└── springbootapi-demo
+
+
+Java 與 .NET 是我一開始的專長，然後到處打工才開始點新的技能樹
+技能樹上的其他分枝會陸續更新上來的！
