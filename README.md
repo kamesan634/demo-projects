@@ -22,6 +22,8 @@ DemoProjects/                    # 主 repo
 
 ├── dotnet-demo
 
+├── laravel-demo
+
 └── springboot-demo
 
 
@@ -29,9 +31,13 @@ DemoProjects/                    # 主 repo
 
 ├── dotnetapi-demo
 
+├── laravelapi-demo
+
 └── springbootapi-demo
 
 
-Java 與 .NET 是我一開始的專長，然後到處打工才開始點新的技能樹
+Java 與 .NET 是我一開始的專長，然後到處打工才開始點新的技能樹義
+
+一開始出來賺，才發現其實外面頗多要用 PHP 的，所以就順勢點亮，不過後來我比較少接到PHP的案子說
 
 技能樹上的其他分枝會陸續更新上來的！
