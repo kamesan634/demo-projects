@@ -20,6 +20,8 @@ DemoProjects/                    # 主 repo
 
 全端/
 
+├── django-demo
+
 ├── dotnet-demo
 
 ├── laravel-demo
@@ -31,6 +33,8 @@ DemoProjects/                    # 主 repo
 
 ├── dotnetapi-demo
 
+├── fastpi-demo
+
 ├── laravelapi-demo
 
 └── springbootapi-demo
@@ -39,5 +43,7 @@ DemoProjects/                    # 主 repo
 Java 與 .NET 是我一開始的專長，然後到處打工才開始點新的技能樹義
 
 一開始出來賺，才發現其實外面頗多要用 PHP 的，所以就順勢點亮，不過後來我比較少接到PHP的案子說
+
+然後Python橫空出世，但他的寫法會讓我有點小困擾，本想保持距離無奈遇到恩客拿新台幣脅迫我去學，沒想到後來甚至去職訓課程中擔任過一期講師
 
 技能樹上的其他分枝會陸續更新上來的！
