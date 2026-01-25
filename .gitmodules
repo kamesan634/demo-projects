@@ -28,3 +28,6 @@
 [submodule "原始碼/全端/laravel-demo"]
 	path = 原始碼/全端/laravel-demo
 	url = https://kamesan634@github.com/kamesan634/laravel-demo.git
+[submodule "原始碼/全端/springboot-demo"]
+	path = 原始碼/全端/springboot-demo
+	url = https://kamesan634@github.com/kamesan634/springboot-demo.git
