@@ -31,3 +31,6 @@
 [submodule "原始碼/全端/springboot-demo"]
 	path = 原始碼/全端/springboot-demo
 	url = https://kamesan634@github.com/kamesan634/springboot-demo.git
+[submodule "原始碼/後端/nestjs-demo"]
+	path = 原始碼/後端/nestjs-demo
+	url = https://kamesan634@github.com/kamesan634/nestjs-demo.git
