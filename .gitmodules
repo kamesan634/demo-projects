@@ -19,3 +19,6 @@
 [submodule "原始碼/後端/springbootapi-demo"]
 	path = 原始碼/後端/springbootapi-demo
 	url = https://kamesan634@github.com/kamesan634/springbootapi-demo.git
+[submodule "原始碼/全端/django-demo"]
+	path = 原始碼/全端/django-demo
+	url = https://kamesan634@github.com/kamesan634/django-demo.git
