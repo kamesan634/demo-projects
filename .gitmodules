@@ -22,3 +22,6 @@
 [submodule "原始碼/全端/django-demo"]
 	path = 原始碼/全端/django-demo
 	url = https://kamesan634@github.com/kamesan634/django-demo.git
+[submodule "原始碼/全端/dotnet-demo"]
+	path = 原始碼/全端/dotnet-demo
+	url = https://kamesan634@github.com/kamesan634/dotnet-demo.git
