@@ -25,3 +25,6 @@
 [submodule "原始碼/全端/dotnet-demo"]
 	path = 原始碼/全端/dotnet-demo
 	url = https://kamesan634@github.com/kamesan634/dotnet-demo.git
+[submodule "原始碼/全端/laravel-demo"]
+	path = 原始碼/全端/laravel-demo
+	url = https://kamesan634@github.com/kamesan634/laravel-demo.git
