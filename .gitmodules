@@ -10,3 +10,6 @@
 [submodule "原始碼/後端/dotnetapi-demo"]
 	path = 原始碼/後端/dotnetapi-demo
 	url = https://kamesan634@github.com/kamesan634/dotnetapi-demo.git
+[submodule "原始碼/後端/fastapi-demo"]
+	path = 原始碼/後端/fastapi-demo
+	url = https://kamesan634@github.com/kamesan634/fastapi-demo.git
