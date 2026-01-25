@@ -13,3 +13,6 @@
 [submodule "原始碼/後端/fastapi-demo"]
 	path = 原始碼/後端/fastapi-demo
 	url = https://kamesan634@github.com/kamesan634/fastapi-demo.git
+[submodule "原始碼/後端/laravelapi-demo"]
+	path = 原始碼/後端/laravelapi-demo
+	url = https://kamesan634@github.com/kamesan634/laravelapi-demo.git
