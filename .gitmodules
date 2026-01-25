@@ -4,3 +4,6 @@
 [submodule "原始碼/前端/vue-demo"]
 	path = 原始碼/前端/vue-demo
 	url = https://kamesan634@github.com/kamesan634/vue-demo.git
+[submodule "原始碼/前端/react-demo"]
+	path = 原始碼/前端/react-demo
+	url = https://kamesan634@github.com/kamesan634/react-demo.git
