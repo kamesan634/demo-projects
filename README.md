@@ -26,6 +26,8 @@ DemoProjects/                    # 主 repo
 
 ├── laravel-demo    ![CI](https://github.com/kamesan634/laravel-demo/actions/workflows/ci.yml/badge.svg)
 
+├── nextjs-demo    ![CI](https://github.com/kamesan634/nextjs-demo/actions/workflows/ci.yml/badge.svg)
+
 └── springboot-demo    ![CI](https://github.com/kamesan634/springboot-demo/actions/workflows/ci.yml/badge.svg)
 
 
@@ -66,5 +68,7 @@ Java 與 .NET 是我一開始的專長，然後到處打工才開始點新的技
 羨慕硬體有乖乖！綠燈怎麼架雞掰！(跌坐
 
 有一天合作過的PM臨時抓我去頂某專案的後端！當我施展springboot召喚術到一半時....PM：咦？我沒說是Nestjs嗎？
+
+2023年我接了一個最荒謬也算虧本的專案，唯一沒那麼遺憾的就是學了Next.js
 
 技能樹上的其他分枝會陸續更新上來的！
