@@ -37,3 +37,6 @@
 [submodule "原始碼/全端/nextjs-demo"]
 	path = 原始碼/全端/nextjs-demo
 	url = https://kamesan634@github.com/kamesan634/nextjs-demo.git
+[submodule "原始碼/後端/go-demo"]
+	path = 原始碼/後端/go-demo
+	url = https://kamesan634@github.com/kamesan634/go-demo.git
