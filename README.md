@@ -41,6 +41,8 @@ DemoProjects/                    # 主 repo
 
 ├── laravelapi-demo    ![CI](https://github.com/kamesan634/laravelapi-demo/actions/workflows/ci.yml/badge.svg)
 
+├── go-demo    ![CI](https://github.com/kamesan634/go-demo/actions/workflows/ci.yml/badge.svg)
+
 ├── nestjs-demo    ![CI](https://github.com/kamesan634/nestjs-demo/actions/workflows/ci.yml/badge.svg)
 
 └── springbootapi-demo    ![CI](https://github.com/kamesan634/springbootapi-demo/actions/workflows/ci.yml/badge.svg)
