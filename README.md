@@ -9,10 +9,12 @@ DemoProjects/                    # 主 repo
 ├── 文件/
 │   └── SA之類的文件
 └── 原始碼/
+    ├── APP端/
+    │   ├── 各種APP端專案        # submodule
     ├── 前端/
     │   ├── 各種前端專案        # submodule
     ├── 後端/
-    │   ├── 各種後端專案        # submodule
+    │   ├── 各種後端專案        # submodule    
     └── 全端/
         └── 各種全端專案        # submodule
 
