@@ -4,6 +4,25 @@
 問題是我的程式要嘛放在客戶他們自己的server，要嘛就是幫他們用gitea架自己的server
 
 所以我這邊一片漆黑......因此我花點時間做了些demo，架構大概是這樣的
+跨越前端、後端與全端的技術展示專案集，涵蓋主流框架與語言，每個專案皆具備 CI/CD 自動化流程與測試覆蓋，雖說是demo但是是認真的demo。
+---
+
+## 技能樹總攬
+
+| 領域 | 技術 |
+|------|------|
+| 後端 | Java (Spring Boot)、C# (.NET)、PHP (Laravel)、Python (FastAPI)、Node.js (NestJS) |
+| 前端 | Angular、React、Vue.js、Next.js |
+| 行動端 | Flutter、Kotlin (Android)、Swift (iOS) |
+| 資料庫 | Oracle、SQL Server、MySQL、PostgreSQL |
+| DevOps | GitHub Actions CI/CD、Docker、AWS Lightsail、Nginx |
+
+---
+
+## 專案架構
+
+本 Repo 以 Git Submodule 組織，依前端 / 後端 / 全端分類，方便獨立維護與展示。
+
 ```
 DemoProjects/                    # 主 repo
 ├── 文件/
@@ -20,6 +39,14 @@ DemoProjects/                    # 主 repo
 
 
 ```
+每個專案均遵循以下工程標準：
+
+- **CI/CD 自動化**：GitHub Actions 建置、測試與部署流程，全線綠燈 ✅
+- **測試覆蓋**：單元測試與整合測試
+- **程式碼品質**：Linter 檢查與一致的程式碼風格
+- **文件完整**：API 文件（Swagger/OpenAPI）與專案說明
+
+
 目前進度
 
 全端/
