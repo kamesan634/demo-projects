@@ -1,4 +1,4 @@
-# DemoProjects 
+# demo-projects 
 聽說這年頭找工作談外包之類的要有git專案之類的咚咚才會有人理你！
 
 問題是我的程式要嘛放在客戶他們自己的server，要嘛就是幫他們用gitea架自己的server
